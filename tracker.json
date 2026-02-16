@@ -1,0 +1,15 @@
+{
+  "solved": [
+    "java/strings/anagram_check",
+    "cpp/math/matrix_multiplication"
+  ],
+  "total": 2,
+  "by_language": {
+    "java": 1,
+    "cpp": 1
+  },
+  "by_difficulty": {
+    "Easy": 1,
+    "Medium": 1
+  }
+}

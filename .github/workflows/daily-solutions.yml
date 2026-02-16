@@ -1,0 +1,75 @@
+name: 💻 Daily Coding Solutions
+
+on:
+  schedule:
+    # Run twice daily for 2 contributions from this repo
+    - cron: '0 2 * * *'   # 7:30 AM IST
+    - cron: '0 7 * * *'   # 12:30 PM IST
+
+  workflow_dispatch:
+    inputs:
+      count:
+        description: 'Number of solutions to generate'
+        required: false
+        default: '2'
+      language:
+        description: 'Force specific language (leave empty for random)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  generate-solutions:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 📦 Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: 💻 Generate solutions
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          COUNT="${{ github.event.inputs.count || '2' }}"
+          LANG="${{ github.event.inputs.language }}"
+          ARGS="--count $COUNT"
+          if [ -n "$LANG" ]; then
+            ARGS="$ARGS --language $LANG"
+          fi
+          python generate_solutions.py --dry-run $ARGS
+
+      - name: 📝 Commit and push
+        run: |
+          git config user.name "Jay Singh"
+          git config user.email "jayrakeshsingh8796@gmail.com"
+          git add -A
+
+          # Make separate commits for each new solution file
+          for file in $(git diff --cached --name-only | grep "^solutions/"); do
+            lang=$(echo "$file" | cut -d'/' -f2)
+            base=$(basename "$file" | sed 's/\.[^.]*$//' | tr '_' ' ')
+            git reset HEAD -- . > /dev/null 2>&1
+            git add "$file" tracker.json README.md
+            git commit -m "✅ Solved: ${base} (${lang})" || true
+          done
+
+          # Commit any remaining files
+          git add -A
+          git diff --cached --quiet || git commit -m "📊 Update tracker and README"
+
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
