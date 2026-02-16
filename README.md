@@ -41,4 +41,4 @@ solutions/
 ```
 
 ---
-*Auto-generated daily by [Coding Solutions Generator](https://github.com/iamjaysingh/coding-solutions)* ✨
+*Generated daily by [Programming Questions and their Solutions](https://github.com/iamjaysingh/coding-solutions)* ✨
