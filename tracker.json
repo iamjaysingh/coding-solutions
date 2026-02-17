@@ -3,16 +3,19 @@
     "java/strings/anagram_check",
     "cpp/math/matrix_multiplication",
     "javascript/sorting/quick_sort",
-    "java/searching/binary_search"
+    "java/searching/binary_search",
+    "python/sorting/bubble_sort",
+    "javascript/data-structures/graph_dfs"
   ],
-  "total": 4,
+  "total": 6,
   "by_language": {
     "java": 2,
     "cpp": 1,
-    "javascript": 1
+    "javascript": 2,
+    "python": 1
   },
   "by_difficulty": {
-    "Easy": 2,
-    "Medium": 2
+    "Easy": 3,
+    "Medium": 3
   }
 }
