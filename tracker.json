@@ -1,15 +1,18 @@
 {
   "solved": [
     "java/strings/anagram_check",
-    "cpp/math/matrix_multiplication"
+    "cpp/math/matrix_multiplication",
+    "javascript/sorting/quick_sort",
+    "java/searching/binary_search"
   ],
-  "total": 2,
+  "total": 4,
   "by_language": {
-    "java": 1,
-    "cpp": 1
+    "java": 2,
+    "cpp": 1,
+    "javascript": 1
   },
   "by_difficulty": {
-    "Easy": 1,
-    "Medium": 1
+    "Easy": 2,
+    "Medium": 2
   }
 }

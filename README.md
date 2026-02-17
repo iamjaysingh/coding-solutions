@@ -7,18 +7,19 @@
 
 | Metric | Value |
 |--------|-------|
-| 📁 Total Solutions | **2** |
-| 📅 Last Updated | **2026-02-16** |
+| 📁 Total Solutions | **4** |
+| 📅 Last Updated | **2026-02-17** |
 
 ## 🗂️ Languages
 
-| ☕ java | **1** solutions |
+| ☕ java | **2** solutions |
 | ⚡ cpp | **1** solutions |
+| 🟨 javascript | **1** solutions |
 
 ## 📈 By Difficulty
 
-| 🟢 Easy | **1** |
-| 🟡 Medium | **1** |
+| 🟢 Easy | **2** |
+| 🟡 Medium | **2** |
 | 🔴 Hard | **0** |
 
 ## 📂 Structure
@@ -41,4 +42,4 @@ solutions/
 ```
 
 ---
-*Solving questions daily by [Programming Questions and their Solutions](https://github.com/iamjaysingh/coding-solutions)* ✨
+*Auto-generated daily by [Coding Solutions Generator](https://github.com/iamjaysingh/coding-solutions)* ✨
