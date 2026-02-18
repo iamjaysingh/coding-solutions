@@ -5,17 +5,21 @@
     "javascript/sorting/quick_sort",
     "java/searching/binary_search",
     "python/sorting/bubble_sort",
-    "javascript/data-structures/graph_dfs"
+    "javascript/data-structures/graph_dfs",
+    "javascript/dynamic-programming/climbing_stairs",
+    "go/sorting/heap_sort"
   ],
-  "total": 6,
+  "total": 8,
   "by_language": {
     "java": 2,
     "cpp": 1,
-    "javascript": 2,
-    "python": 1
+    "javascript": 3,
+    "python": 1,
+    "go": 1
   },
   "by_difficulty": {
-    "Easy": 3,
-    "Medium": 3
+    "Easy": 4,
+    "Medium": 3,
+    "Hard": 1
   }
 }
