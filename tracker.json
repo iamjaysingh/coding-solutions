@@ -11,19 +11,21 @@
     "java/dynamic-programming/climbing_stairs",
     "cpp/searching/two_sum",
     "c/basics/temperature_converter",
-    "javascript/data-structures/graph_bfs"
+    "javascript/data-structures/graph_bfs",
+    "go/basics/temperature_converter",
+    "python/searching/linear_search"
   ],
-  "total": 12,
+  "total": 14,
   "by_language": {
     "java": 3,
     "cpp": 2,
     "javascript": 4,
-    "python": 1,
-    "go": 1,
+    "python": 2,
+    "go": 2,
     "c": 1
   },
   "by_difficulty": {
-    "Easy": 6,
+    "Easy": 8,
     "Medium": 5,
     "Hard": 1
   }
