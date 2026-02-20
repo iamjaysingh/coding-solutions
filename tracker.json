@@ -15,20 +15,22 @@
     "go/basics/temperature_converter",
     "python/searching/linear_search",
     "javascript/data-structures/stack_implementation",
-    "cpp/data-structures/linked_list"
+    "cpp/data-structures/linked_list",
+    "javascript/math/power_of_two",
+    "javascript/basics/number_to_words"
   ],
-  "total": 16,
+  "total": 18,
   "by_language": {
     "java": 3,
     "cpp": 3,
-    "javascript": 5,
+    "javascript": 7,
     "python": 2,
     "go": 2,
     "c": 1
   },
   "by_difficulty": {
-    "Easy": 9,
-    "Medium": 6,
+    "Easy": 10,
+    "Medium": 7,
     "Hard": 1
   }
 }
