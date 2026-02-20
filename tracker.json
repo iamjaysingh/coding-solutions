@@ -13,20 +13,22 @@
     "c/basics/temperature_converter",
     "javascript/data-structures/graph_bfs",
     "go/basics/temperature_converter",
-    "python/searching/linear_search"
+    "python/searching/linear_search",
+    "javascript/data-structures/stack_implementation",
+    "cpp/data-structures/linked_list"
   ],
-  "total": 14,
+  "total": 16,
   "by_language": {
     "java": 3,
-    "cpp": 2,
-    "javascript": 4,
+    "cpp": 3,
+    "javascript": 5,
     "python": 2,
     "go": 2,
     "c": 1
   },
   "by_difficulty": {
-    "Easy": 8,
-    "Medium": 5,
+    "Easy": 9,
+    "Medium": 6,
     "Hard": 1
   }
 }
