@@ -19,19 +19,21 @@
     "javascript/math/power_of_two",
     "javascript/basics/number_to_words",
     "c/math/power_of_two",
-    "python/strings/reverse_string"
+    "python/strings/reverse_string",
+    "go/math/gcd_lcm",
+    "java/searching/linear_search"
   ],
-  "total": 20,
+  "total": 22,
   "by_language": {
-    "java": 3,
+    "java": 4,
     "cpp": 3,
     "javascript": 7,
     "python": 3,
-    "go": 2,
+    "go": 3,
     "c": 2
   },
   "by_difficulty": {
-    "Easy": 12,
+    "Easy": 14,
     "Medium": 7,
     "Hard": 1
   }
