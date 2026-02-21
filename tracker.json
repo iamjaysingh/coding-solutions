@@ -17,19 +17,21 @@
     "javascript/data-structures/stack_implementation",
     "cpp/data-structures/linked_list",
     "javascript/math/power_of_two",
-    "javascript/basics/number_to_words"
+    "javascript/basics/number_to_words",
+    "c/math/power_of_two",
+    "python/strings/reverse_string"
   ],
-  "total": 18,
+  "total": 20,
   "by_language": {
     "java": 3,
     "cpp": 3,
     "javascript": 7,
-    "python": 2,
+    "python": 3,
     "go": 2,
-    "c": 1
+    "c": 2
   },
   "by_difficulty": {
-    "Easy": 10,
+    "Easy": 12,
     "Medium": 7,
     "Hard": 1
   }
