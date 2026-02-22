@@ -23,19 +23,21 @@
     "go/math/gcd_lcm",
     "java/searching/linear_search",
     "python/math/armstrong_number",
-    "javascript/strings/reverse_string"
+    "javascript/strings/reverse_string",
+    "python/sorting/insertion_sort",
+    "cpp/math/armstrong_number"
   ],
-  "total": 24,
+  "total": 26,
   "by_language": {
     "java": 4,
-    "cpp": 3,
+    "cpp": 4,
     "javascript": 8,
-    "python": 4,
+    "python": 5,
     "go": 3,
     "c": 2
   },
   "by_difficulty": {
-    "Easy": 16,
+    "Easy": 18,
     "Medium": 7,
     "Hard": 1
   }
