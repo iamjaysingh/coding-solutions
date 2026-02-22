@@ -21,19 +21,21 @@
     "c/math/power_of_two",
     "python/strings/reverse_string",
     "go/math/gcd_lcm",
-    "java/searching/linear_search"
+    "java/searching/linear_search",
+    "python/math/armstrong_number",
+    "javascript/strings/reverse_string"
   ],
-  "total": 22,
+  "total": 24,
   "by_language": {
     "java": 4,
     "cpp": 3,
-    "javascript": 7,
-    "python": 3,
+    "javascript": 8,
+    "python": 4,
     "go": 3,
     "c": 2
   },
   "by_difficulty": {
-    "Easy": 14,
+    "Easy": 16,
     "Medium": 7,
     "Hard": 1
   }
