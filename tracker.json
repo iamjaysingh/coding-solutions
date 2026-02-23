@@ -25,20 +25,22 @@
     "python/math/armstrong_number",
     "javascript/strings/reverse_string",
     "python/sorting/insertion_sort",
-    "cpp/math/armstrong_number"
+    "cpp/math/armstrong_number",
+    "cpp/math/prime_numbers",
+    "go/sorting/merge_sort"
   ],
-  "total": 26,
+  "total": 28,
   "by_language": {
     "java": 4,
-    "cpp": 4,
+    "cpp": 5,
     "javascript": 8,
     "python": 5,
-    "go": 3,
+    "go": 4,
     "c": 2
   },
   "by_difficulty": {
-    "Easy": 18,
-    "Medium": 7,
+    "Easy": 19,
+    "Medium": 8,
     "Hard": 1
   }
 }
