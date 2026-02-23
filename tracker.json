@@ -27,20 +27,22 @@
     "python/sorting/insertion_sort",
     "cpp/math/armstrong_number",
     "cpp/math/prime_numbers",
-    "go/sorting/merge_sort"
+    "go/sorting/merge_sort",
+    "cpp/dynamic-programming/coin_change",
+    "python/math/matrix_multiplication"
   ],
-  "total": 28,
+  "total": 30,
   "by_language": {
     "java": 4,
-    "cpp": 5,
+    "cpp": 6,
     "javascript": 8,
-    "python": 5,
+    "python": 6,
     "go": 4,
     "c": 2
   },
   "by_difficulty": {
     "Easy": 19,
-    "Medium": 8,
+    "Medium": 10,
     "Hard": 1
   }
 }
