@@ -29,20 +29,22 @@
     "cpp/math/prime_numbers",
     "go/sorting/merge_sort",
     "cpp/dynamic-programming/coin_change",
-    "python/math/matrix_multiplication"
+    "python/math/matrix_multiplication",
+    "cpp/data-structures/graph_dfs",
+    "cpp/math/power_of_two"
   ],
-  "total": 30,
+  "total": 32,
   "by_language": {
     "java": 4,
-    "cpp": 6,
+    "cpp": 8,
     "javascript": 8,
     "python": 6,
     "go": 4,
     "c": 2
   },
   "by_difficulty": {
-    "Easy": 19,
-    "Medium": 10,
+    "Easy": 20,
+    "Medium": 11,
     "Hard": 1
   }
 }
