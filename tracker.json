@@ -31,19 +31,21 @@
     "cpp/dynamic-programming/coin_change",
     "python/math/matrix_multiplication",
     "cpp/data-structures/graph_dfs",
-    "cpp/math/power_of_two"
+    "cpp/math/power_of_two",
+    "cpp/searching/linear_search",
+    "go/strings/reverse_string"
   ],
-  "total": 32,
+  "total": 34,
   "by_language": {
     "java": 4,
-    "cpp": 8,
+    "cpp": 9,
     "javascript": 8,
     "python": 6,
-    "go": 4,
+    "go": 5,
     "c": 2
   },
   "by_difficulty": {
-    "Easy": 20,
+    "Easy": 22,
     "Medium": 11,
     "Hard": 1
   }

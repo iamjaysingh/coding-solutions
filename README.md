@@ -7,21 +7,21 @@
 
 | Metric | Value |
 |--------|-------|
-| 📁 Total Solutions | **32** |
+| 📁 Total Solutions | **34** |
 | 📅 Last Updated | **2026-02-24** |
 
 ## 🗂️ Languages
 
-| ⚡ cpp | **8** solutions |
+| ⚡ cpp | **9** solutions |
 | 🟨 javascript | **8** solutions |
 | 🐍 python | **6** solutions |
+| 🐹 go | **5** solutions |
 | ☕ java | **4** solutions |
-| 🐹 go | **4** solutions |
 | ⚙️ c | **2** solutions |
 
 ## 📈 By Difficulty
 
-| 🟢 Easy | **20** |
+| 🟢 Easy | **22** |
 | 🟡 Medium | **11** |
 | 🔴 Hard | **1** |
 
