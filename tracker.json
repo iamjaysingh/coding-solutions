@@ -35,19 +35,21 @@
     "cpp/searching/linear_search",
     "go/strings/reverse_string",
     "python/strings/anagram_check",
-    "cpp/dynamic-programming/knapsack"
+    "cpp/dynamic-programming/knapsack",
+    "go/data-structures/stack_implementation",
+    "javascript/math/factorial"
   ],
-  "total": 36,
+  "total": 38,
   "by_language": {
     "java": 4,
     "cpp": 10,
-    "javascript": 8,
+    "javascript": 9,
     "python": 7,
-    "go": 5,
+    "go": 6,
     "c": 2
   },
   "by_difficulty": {
-    "Easy": 23,
+    "Easy": 25,
     "Medium": 11,
     "Hard": 2
   }
