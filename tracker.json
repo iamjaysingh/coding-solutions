@@ -33,20 +33,22 @@
     "cpp/data-structures/graph_dfs",
     "cpp/math/power_of_two",
     "cpp/searching/linear_search",
-    "go/strings/reverse_string"
+    "go/strings/reverse_string",
+    "python/strings/anagram_check",
+    "cpp/dynamic-programming/knapsack"
   ],
-  "total": 34,
+  "total": 36,
   "by_language": {
     "java": 4,
-    "cpp": 9,
+    "cpp": 10,
     "javascript": 8,
-    "python": 6,
+    "python": 7,
     "go": 5,
     "c": 2
   },
   "by_difficulty": {
-    "Easy": 22,
+    "Easy": 23,
     "Medium": 11,
-    "Hard": 1
+    "Hard": 2
   }
 }
