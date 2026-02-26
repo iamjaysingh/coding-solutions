@@ -39,19 +39,21 @@
     "go/data-structures/stack_implementation",
     "javascript/math/factorial",
     "cpp/strings/anagram_check",
-    "javascript/sorting/insertion_sort"
+    "javascript/sorting/insertion_sort",
+    "go/strings/palindrome_check",
+    "c/searching/binary_search"
   ],
-  "total": 40,
+  "total": 42,
   "by_language": {
     "java": 4,
     "cpp": 11,
     "javascript": 10,
     "python": 7,
-    "go": 6,
-    "c": 2
+    "go": 7,
+    "c": 3
   },
   "by_difficulty": {
-    "Easy": 27,
+    "Easy": 29,
     "Medium": 11,
     "Hard": 2
   }
