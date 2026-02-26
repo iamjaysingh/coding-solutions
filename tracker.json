@@ -37,19 +37,21 @@
     "python/strings/anagram_check",
     "cpp/dynamic-programming/knapsack",
     "go/data-structures/stack_implementation",
-    "javascript/math/factorial"
+    "javascript/math/factorial",
+    "cpp/strings/anagram_check",
+    "javascript/sorting/insertion_sort"
   ],
-  "total": 38,
+  "total": 40,
   "by_language": {
     "java": 4,
-    "cpp": 10,
-    "javascript": 9,
+    "cpp": 11,
+    "javascript": 10,
     "python": 7,
     "go": 6,
     "c": 2
   },
   "by_difficulty": {
-    "Easy": 25,
+    "Easy": 27,
     "Medium": 11,
     "Hard": 2
   }
