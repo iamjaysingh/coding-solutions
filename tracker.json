@@ -41,19 +41,21 @@
     "cpp/strings/anagram_check",
     "javascript/sorting/insertion_sort",
     "go/strings/palindrome_check",
-    "c/searching/binary_search"
+    "c/searching/binary_search",
+    "java/basics/pattern_printing",
+    "javascript/searching/binary_search"
   ],
-  "total": 42,
+  "total": 44,
   "by_language": {
-    "java": 4,
+    "java": 5,
     "cpp": 11,
-    "javascript": 10,
+    "javascript": 11,
     "python": 7,
     "go": 7,
     "c": 3
   },
   "by_difficulty": {
-    "Easy": 29,
+    "Easy": 31,
     "Medium": 11,
     "Hard": 2
   }
