@@ -43,19 +43,21 @@
     "go/strings/palindrome_check",
     "c/searching/binary_search",
     "java/basics/pattern_printing",
-    "javascript/searching/binary_search"
+    "javascript/searching/binary_search",
+    "javascript/sorting/bubble_sort",
+    "java/math/prime_numbers"
   ],
-  "total": 44,
+  "total": 46,
   "by_language": {
-    "java": 5,
+    "java": 6,
     "cpp": 11,
-    "javascript": 11,
+    "javascript": 12,
     "python": 7,
     "go": 7,
     "c": 3
   },
   "by_difficulty": {
-    "Easy": 31,
+    "Easy": 33,
     "Medium": 11,
     "Hard": 2
   }
