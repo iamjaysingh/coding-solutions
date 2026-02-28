@@ -47,20 +47,22 @@
     "javascript/sorting/bubble_sort",
     "java/math/prime_numbers",
     "cpp/sorting/counting_sort",
-    "go/searching/binary_search"
+    "go/searching/binary_search",
+    "cpp/data-structures/binary_search_tree",
+    "javascript/dynamic-programming/longest_common_subsequence"
   ],
-  "total": 48,
+  "total": 50,
   "by_language": {
     "java": 6,
-    "cpp": 12,
-    "javascript": 12,
+    "cpp": 13,
+    "javascript": 13,
     "python": 7,
     "go": 8,
     "c": 3
   },
   "by_difficulty": {
     "Easy": 34,
-    "Medium": 12,
+    "Medium": 14,
     "Hard": 2
   }
 }
