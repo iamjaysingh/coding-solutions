@@ -45,20 +45,22 @@
     "java/basics/pattern_printing",
     "javascript/searching/binary_search",
     "javascript/sorting/bubble_sort",
-    "java/math/prime_numbers"
+    "java/math/prime_numbers",
+    "cpp/sorting/counting_sort",
+    "go/searching/binary_search"
   ],
-  "total": 46,
+  "total": 48,
   "by_language": {
     "java": 6,
-    "cpp": 11,
+    "cpp": 12,
     "javascript": 12,
     "python": 7,
-    "go": 7,
+    "go": 8,
     "c": 3
   },
   "by_difficulty": {
-    "Easy": 33,
-    "Medium": 11,
+    "Easy": 34,
+    "Medium": 12,
     "Hard": 2
   }
 }
