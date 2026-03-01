@@ -49,20 +49,22 @@
     "cpp/sorting/counting_sort",
     "go/searching/binary_search",
     "cpp/data-structures/binary_search_tree",
-    "javascript/dynamic-programming/longest_common_subsequence"
+    "javascript/dynamic-programming/longest_common_subsequence",
+    "java/strings/reverse_string",
+    "c/sorting/counting_sort"
   ],
-  "total": 50,
+  "total": 52,
   "by_language": {
-    "java": 6,
+    "java": 7,
     "cpp": 13,
     "javascript": 13,
     "python": 7,
     "go": 8,
-    "c": 3
+    "c": 4
   },
   "by_difficulty": {
-    "Easy": 34,
-    "Medium": 14,
+    "Easy": 35,
+    "Medium": 15,
     "Hard": 2
   }
 }
