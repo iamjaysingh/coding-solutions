@@ -51,19 +51,21 @@
     "cpp/data-structures/binary_search_tree",
     "javascript/dynamic-programming/longest_common_subsequence",
     "java/strings/reverse_string",
-    "c/sorting/counting_sort"
+    "c/sorting/counting_sort",
+    "cpp/basics/temperature_converter",
+    "python/basics/pattern_printing"
   ],
-  "total": 52,
+  "total": 54,
   "by_language": {
     "java": 7,
-    "cpp": 13,
+    "cpp": 14,
     "javascript": 13,
-    "python": 7,
+    "python": 8,
     "go": 8,
     "c": 4
   },
   "by_difficulty": {
-    "Easy": 35,
+    "Easy": 37,
     "Medium": 15,
     "Hard": 2
   }
