@@ -55,20 +55,22 @@
     "cpp/basics/temperature_converter",
     "python/basics/pattern_printing",
     "python/data-structures/linked_list",
-    "python/dynamic-programming/climbing_stairs"
+    "python/dynamic-programming/climbing_stairs",
+    "c/math/matrix_multiplication",
+    "c/sorting/insertion_sort"
   ],
-  "total": 56,
+  "total": 58,
   "by_language": {
     "java": 7,
     "cpp": 14,
     "javascript": 13,
     "python": 10,
     "go": 8,
-    "c": 4
+    "c": 6
   },
   "by_difficulty": {
-    "Easy": 38,
-    "Medium": 16,
+    "Easy": 39,
+    "Medium": 17,
     "Hard": 2
   }
 }
