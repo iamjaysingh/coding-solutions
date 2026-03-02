@@ -53,20 +53,22 @@
     "java/strings/reverse_string",
     "c/sorting/counting_sort",
     "cpp/basics/temperature_converter",
-    "python/basics/pattern_printing"
+    "python/basics/pattern_printing",
+    "python/data-structures/linked_list",
+    "python/dynamic-programming/climbing_stairs"
   ],
-  "total": 54,
+  "total": 56,
   "by_language": {
     "java": 7,
     "cpp": 14,
     "javascript": 13,
-    "python": 8,
+    "python": 10,
     "go": 8,
     "c": 4
   },
   "by_difficulty": {
-    "Easy": 37,
-    "Medium": 15,
+    "Easy": 38,
+    "Medium": 16,
     "Hard": 2
   }
 }
