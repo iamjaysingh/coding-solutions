@@ -57,12 +57,14 @@
     "python/data-structures/linked_list",
     "python/dynamic-programming/climbing_stairs",
     "c/math/matrix_multiplication",
-    "c/sorting/insertion_sort"
+    "c/sorting/insertion_sort",
+    "java/sorting/quick_sort",
+    "cpp/basics/tower_of_hanoi"
   ],
-  "total": 58,
+  "total": 60,
   "by_language": {
-    "java": 7,
-    "cpp": 14,
+    "java": 8,
+    "cpp": 15,
     "javascript": 13,
     "python": 10,
     "go": 8,
@@ -70,7 +72,7 @@
   },
   "by_difficulty": {
     "Easy": 39,
-    "Medium": 17,
+    "Medium": 19,
     "Hard": 2
   }
 }
