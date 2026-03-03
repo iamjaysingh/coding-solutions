@@ -59,20 +59,22 @@
     "c/math/matrix_multiplication",
     "c/sorting/insertion_sort",
     "java/sorting/quick_sort",
-    "cpp/basics/tower_of_hanoi"
+    "cpp/basics/tower_of_hanoi",
+    "go/sorting/quick_sort",
+    "java/sorting/counting_sort"
   ],
-  "total": 60,
+  "total": 62,
   "by_language": {
-    "java": 8,
+    "java": 9,
     "cpp": 15,
     "javascript": 13,
     "python": 10,
-    "go": 8,
+    "go": 9,
     "c": 6
   },
   "by_difficulty": {
     "Easy": 39,
-    "Medium": 19,
+    "Medium": 21,
     "Hard": 2
   }
 }
