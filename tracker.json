@@ -61,11 +61,13 @@
     "java/sorting/quick_sort",
     "cpp/basics/tower_of_hanoi",
     "go/sorting/quick_sort",
-    "java/sorting/counting_sort"
+    "java/sorting/counting_sort",
+    "java/sorting/heap_sort",
+    "java/sorting/insertion_sort"
   ],
-  "total": 62,
+  "total": 64,
   "by_language": {
-    "java": 9,
+    "java": 11,
     "cpp": 15,
     "javascript": 13,
     "python": 10,
@@ -73,8 +75,8 @@
     "c": 6
   },
   "by_difficulty": {
-    "Easy": 39,
+    "Easy": 40,
     "Medium": 21,
-    "Hard": 2
+    "Hard": 3
   }
 }
