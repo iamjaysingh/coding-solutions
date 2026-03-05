@@ -67,20 +67,22 @@
     "java/dynamic-programming/knapsack",
     "python/data-structures/hash_table",
     "c/data-structures/stack_implementation",
-    "javascript/data-structures/linked_list"
+    "javascript/data-structures/linked_list",
+    "c/basics/pattern_printing",
+    "python/basics/tower_of_hanoi"
   ],
-  "total": 68,
+  "total": 70,
   "by_language": {
     "java": 12,
     "cpp": 15,
     "javascript": 14,
-    "python": 11,
+    "python": 12,
     "go": 9,
-    "c": 7
+    "c": 8
   },
   "by_difficulty": {
-    "Easy": 41,
-    "Medium": 22,
+    "Easy": 42,
+    "Medium": 23,
     "Hard": 5
   }
 }
