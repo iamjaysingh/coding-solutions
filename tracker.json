@@ -65,20 +65,22 @@
     "java/sorting/heap_sort",
     "java/sorting/insertion_sort",
     "java/dynamic-programming/knapsack",
-    "python/data-structures/hash_table"
+    "python/data-structures/hash_table",
+    "c/data-structures/stack_implementation",
+    "javascript/data-structures/linked_list"
   ],
-  "total": 66,
+  "total": 68,
   "by_language": {
     "java": 12,
     "cpp": 15,
-    "javascript": 13,
+    "javascript": 14,
     "python": 11,
     "go": 9,
-    "c": 6
+    "c": 7
   },
   "by_difficulty": {
-    "Easy": 40,
-    "Medium": 21,
+    "Easy": 41,
+    "Medium": 22,
     "Hard": 5
   }
 }
