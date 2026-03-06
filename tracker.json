@@ -69,20 +69,22 @@
     "c/data-structures/stack_implementation",
     "javascript/data-structures/linked_list",
     "c/basics/pattern_printing",
-    "python/basics/tower_of_hanoi"
+    "python/basics/tower_of_hanoi",
+    "go/data-structures/hash_table",
+    "python/sorting/quick_sort"
   ],
-  "total": 70,
+  "total": 72,
   "by_language": {
     "java": 12,
     "cpp": 15,
     "javascript": 14,
-    "python": 12,
-    "go": 9,
+    "python": 13,
+    "go": 10,
     "c": 8
   },
   "by_difficulty": {
     "Easy": 42,
-    "Medium": 23,
-    "Hard": 5
+    "Medium": 24,
+    "Hard": 6
   }
 }
