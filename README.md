@@ -7,7 +7,7 @@
 
 | Metric | Value |
 |--------|-------|
-| 📁 Total Solutions | **72** |
+| 📁 Total Solutions | **74** |
 | 📅 Last Updated | **2026-03-06** |
 
 ## 🗂️ Languages
@@ -16,12 +16,12 @@
 | 🟨 javascript | **14** solutions |
 | 🐍 python | **13** solutions |
 | ☕ java | **12** solutions |
-| 🐹 go | **10** solutions |
-| ⚙️ c | **8** solutions |
+| 🐹 go | **11** solutions |
+| ⚙️ c | **9** solutions |
 
 ## 📈 By Difficulty
 
-| 🟢 Easy | **42** |
+| 🟢 Easy | **44** |
 | 🟡 Medium | **24** |
 | 🔴 Hard | **6** |
 
