@@ -75,11 +75,13 @@
     "go/dynamic-programming/climbing_stairs",
     "c/strings/palindrome_check",
     "python/math/factorial",
-    "cpp/data-structures/hash_table"
+    "cpp/data-structures/hash_table",
+    "java/data-structures/graph_dfs",
+    "java/dynamic-programming/coin_change"
   ],
-  "total": 76,
+  "total": 78,
   "by_language": {
-    "java": 12,
+    "java": 14,
     "cpp": 16,
     "javascript": 14,
     "python": 14,
@@ -88,7 +90,7 @@
   },
   "by_difficulty": {
     "Easy": 45,
-    "Medium": 24,
+    "Medium": 26,
     "Hard": 7
   }
 }
