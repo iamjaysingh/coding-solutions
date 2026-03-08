@@ -79,20 +79,22 @@
     "java/data-structures/graph_dfs",
     "java/dynamic-programming/coin_change",
     "c/math/prime_numbers",
-    "javascript/basics/temperature_converter"
+    "javascript/basics/temperature_converter",
+    "javascript/sorting/selection_sort",
+    "python/dynamic-programming/knapsack"
   ],
-  "total": 80,
+  "total": 82,
   "by_language": {
     "java": 14,
     "cpp": 16,
-    "javascript": 15,
-    "python": 14,
+    "javascript": 16,
+    "python": 15,
     "go": 11,
     "c": 10
   },
   "by_difficulty": {
-    "Easy": 47,
+    "Easy": 48,
     "Medium": 26,
-    "Hard": 7
+    "Hard": 8
   }
 }
