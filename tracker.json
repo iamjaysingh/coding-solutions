@@ -77,19 +77,21 @@
     "python/math/factorial",
     "cpp/data-structures/hash_table",
     "java/data-structures/graph_dfs",
-    "java/dynamic-programming/coin_change"
+    "java/dynamic-programming/coin_change",
+    "c/math/prime_numbers",
+    "javascript/basics/temperature_converter"
   ],
-  "total": 78,
+  "total": 80,
   "by_language": {
     "java": 14,
     "cpp": 16,
-    "javascript": 14,
+    "javascript": 15,
     "python": 14,
     "go": 11,
-    "c": 9
+    "c": 10
   },
   "by_difficulty": {
-    "Easy": 45,
+    "Easy": 47,
     "Medium": 26,
     "Hard": 7
   }
