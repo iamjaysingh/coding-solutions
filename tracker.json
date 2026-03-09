@@ -81,19 +81,21 @@
     "c/math/prime_numbers",
     "javascript/basics/temperature_converter",
     "javascript/sorting/selection_sort",
-    "python/dynamic-programming/knapsack"
+    "python/dynamic-programming/knapsack",
+    "javascript/searching/linear_search",
+    "java/math/power_of_two"
   ],
-  "total": 82,
+  "total": 84,
   "by_language": {
-    "java": 14,
+    "java": 15,
     "cpp": 16,
-    "javascript": 16,
+    "javascript": 17,
     "python": 15,
     "go": 11,
     "c": 10
   },
   "by_difficulty": {
-    "Easy": 48,
+    "Easy": 50,
     "Medium": 26,
     "Hard": 8
   }
