@@ -85,20 +85,22 @@
     "javascript/searching/linear_search",
     "java/math/power_of_two",
     "java/dynamic-programming/longest_common_subsequence",
-    "javascript/math/gcd_lcm"
+    "javascript/math/gcd_lcm",
+    "cpp/sorting/merge_sort",
+    "go/data-structures/binary_search_tree"
   ],
-  "total": 86,
+  "total": 88,
   "by_language": {
     "java": 16,
-    "cpp": 16,
+    "cpp": 17,
     "javascript": 18,
     "python": 15,
-    "go": 11,
+    "go": 12,
     "c": 10
   },
   "by_difficulty": {
     "Easy": 51,
-    "Medium": 27,
+    "Medium": 29,
     "Hard": 8
   }
 }
