@@ -91,12 +91,14 @@
     "python/sorting/counting_sort",
     "go/math/prime_numbers",
     "c/basics/tower_of_hanoi",
-    "c/sorting/bubble_sort"
+    "c/sorting/bubble_sort",
+    "cpp/sorting/heap_sort",
+    "java/data-structures/linked_list"
   ],
-  "total": 92,
+  "total": 94,
   "by_language": {
-    "java": 16,
-    "cpp": 17,
+    "java": 17,
+    "cpp": 18,
     "javascript": 18,
     "python": 16,
     "go": 13,
@@ -104,7 +106,7 @@
   },
   "by_difficulty": {
     "Easy": 53,
-    "Medium": 31,
-    "Hard": 8
+    "Medium": 32,
+    "Hard": 9
   }
 }
