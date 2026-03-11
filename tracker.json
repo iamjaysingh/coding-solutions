@@ -89,20 +89,22 @@
     "cpp/sorting/merge_sort",
     "go/data-structures/binary_search_tree",
     "python/sorting/counting_sort",
-    "go/math/prime_numbers"
+    "go/math/prime_numbers",
+    "c/basics/tower_of_hanoi",
+    "c/sorting/bubble_sort"
   ],
-  "total": 90,
+  "total": 92,
   "by_language": {
     "java": 16,
     "cpp": 17,
     "javascript": 18,
     "python": 16,
     "go": 13,
-    "c": 10
+    "c": 12
   },
   "by_difficulty": {
-    "Easy": 52,
-    "Medium": 30,
+    "Easy": 53,
+    "Medium": 31,
     "Hard": 8
   }
 }
