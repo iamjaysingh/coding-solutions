@@ -95,19 +95,21 @@
     "cpp/sorting/heap_sort",
     "java/data-structures/linked_list",
     "javascript/basics/tower_of_hanoi",
-    "c/math/factorial"
+    "c/math/factorial",
+    "java/sorting/bubble_sort",
+    "python/math/fibonacci"
   ],
-  "total": 96,
+  "total": 98,
   "by_language": {
-    "java": 17,
+    "java": 18,
     "cpp": 18,
     "javascript": 19,
-    "python": 16,
+    "python": 17,
     "go": 13,
     "c": 13
   },
   "by_difficulty": {
-    "Easy": 54,
+    "Easy": 56,
     "Medium": 33,
     "Hard": 9
   }
