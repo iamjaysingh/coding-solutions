@@ -97,20 +97,22 @@
     "javascript/basics/tower_of_hanoi",
     "c/math/factorial",
     "java/sorting/bubble_sort",
-    "python/math/fibonacci"
+    "python/math/fibonacci",
+    "go/math/fibonacci",
+    "java/basics/number_to_words"
   ],
-  "total": 98,
+  "total": 100,
   "by_language": {
-    "java": 18,
+    "java": 19,
     "cpp": 18,
     "javascript": 19,
     "python": 17,
-    "go": 13,
+    "go": 14,
     "c": 13
   },
   "by_difficulty": {
-    "Easy": 56,
-    "Medium": 33,
+    "Easy": 57,
+    "Medium": 34,
     "Hard": 9
   }
 }
