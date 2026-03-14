@@ -99,19 +99,21 @@
     "java/sorting/bubble_sort",
     "python/math/fibonacci",
     "go/math/fibonacci",
-    "java/basics/number_to_words"
+    "java/basics/number_to_words",
+    "cpp/strings/reverse_string",
+    "python/sorting/selection_sort"
   ],
-  "total": 100,
+  "total": 102,
   "by_language": {
     "java": 19,
-    "cpp": 18,
+    "cpp": 19,
     "javascript": 19,
-    "python": 17,
+    "python": 18,
     "go": 14,
     "c": 13
   },
   "by_difficulty": {
-    "Easy": 57,
+    "Easy": 59,
     "Medium": 34,
     "Hard": 9
   }
