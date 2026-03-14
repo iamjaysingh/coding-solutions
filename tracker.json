@@ -101,20 +101,22 @@
     "go/math/fibonacci",
     "java/basics/number_to_words",
     "cpp/strings/reverse_string",
-    "python/sorting/selection_sort"
+    "python/sorting/selection_sort",
+    "python/sorting/heap_sort",
+    "javascript/searching/two_sum"
   ],
-  "total": 102,
+  "total": 104,
   "by_language": {
     "java": 19,
     "cpp": 19,
-    "javascript": 19,
-    "python": 18,
+    "javascript": 20,
+    "python": 19,
     "go": 14,
     "c": 13
   },
   "by_difficulty": {
     "Easy": 59,
-    "Medium": 34,
-    "Hard": 9
+    "Medium": 35,
+    "Hard": 10
   }
 }
