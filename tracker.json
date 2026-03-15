@@ -103,20 +103,22 @@
     "cpp/strings/reverse_string",
     "python/sorting/selection_sort",
     "python/sorting/heap_sort",
-    "javascript/searching/two_sum"
+    "javascript/searching/two_sum",
+    "python/data-structures/graph_dfs",
+    "java/searching/two_sum"
   ],
-  "total": 104,
+  "total": 106,
   "by_language": {
-    "java": 19,
+    "java": 20,
     "cpp": 19,
     "javascript": 20,
-    "python": 19,
+    "python": 20,
     "go": 14,
     "c": 13
   },
   "by_difficulty": {
     "Easy": 59,
-    "Medium": 35,
+    "Medium": 37,
     "Hard": 10
   }
 }

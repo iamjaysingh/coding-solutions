@@ -7,22 +7,22 @@
 
 | Metric | Value |
 |--------|-------|
-| 📁 Total Solutions | **104** |
-| 📅 Last Updated | **2026-03-14** |
+| 📁 Total Solutions | **106** |
+| 📅 Last Updated | **2026-03-15** |
 
 ## 🗂️ Languages
 
+| ☕ java | **20** solutions |
 | 🟨 javascript | **20** solutions |
-| ☕ java | **19** solutions |
+| 🐍 python | **20** solutions |
 | ⚡ cpp | **19** solutions |
-| 🐍 python | **19** solutions |
 | 🐹 go | **14** solutions |
 | ⚙️ c | **13** solutions |
 
 ## 📈 By Difficulty
 
 | 🟢 Easy | **59** |
-| 🟡 Medium | **35** |
+| 🟡 Medium | **37** |
 | 🔴 Hard | **10** |
 
 ## 📂 Structure
