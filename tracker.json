@@ -105,20 +105,22 @@
     "python/sorting/heap_sort",
     "javascript/searching/two_sum",
     "python/data-structures/graph_dfs",
-    "java/searching/two_sum"
+    "java/searching/two_sum",
+    "javascript/data-structures/queue_implementation",
+    "c/data-structures/linked_list"
   ],
-  "total": 106,
+  "total": 108,
   "by_language": {
     "java": 20,
     "cpp": 19,
-    "javascript": 20,
+    "javascript": 21,
     "python": 20,
     "go": 14,
-    "c": 13
+    "c": 14
   },
   "by_difficulty": {
-    "Easy": 59,
-    "Medium": 37,
+    "Easy": 60,
+    "Medium": 38,
     "Hard": 10
   }
 }
