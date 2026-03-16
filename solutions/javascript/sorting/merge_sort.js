@@ -1,0 +1,8 @@
+/*
+ * Merge Sort
+ * Implement merge sort using divide and conquer
+ * Category: sorting | Difficulty: Medium
+ * Date: 2026-03-16 | Author: Jay Singh
+ */
+
+// TODO: Implement Merge Sort

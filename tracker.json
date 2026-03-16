@@ -109,20 +109,22 @@
     "javascript/data-structures/queue_implementation",
     "c/data-structures/linked_list",
     "python/basics/temperature_converter",
-    "c/math/armstrong_number"
+    "c/math/armstrong_number",
+    "python/math/gcd_lcm",
+    "javascript/sorting/merge_sort"
   ],
-  "total": 110,
+  "total": 112,
   "by_language": {
     "java": 20,
     "cpp": 19,
-    "javascript": 21,
-    "python": 21,
+    "javascript": 22,
+    "python": 22,
     "go": 14,
     "c": 15
   },
   "by_difficulty": {
-    "Easy": 62,
-    "Medium": 38,
+    "Easy": 63,
+    "Medium": 39,
     "Hard": 10
   }
 }
