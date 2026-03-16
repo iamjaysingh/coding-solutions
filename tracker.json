@@ -107,19 +107,21 @@
     "python/data-structures/graph_dfs",
     "java/searching/two_sum",
     "javascript/data-structures/queue_implementation",
-    "c/data-structures/linked_list"
+    "c/data-structures/linked_list",
+    "python/basics/temperature_converter",
+    "c/math/armstrong_number"
   ],
-  "total": 108,
+  "total": 110,
   "by_language": {
     "java": 20,
     "cpp": 19,
     "javascript": 21,
-    "python": 20,
+    "python": 21,
     "go": 14,
-    "c": 14
+    "c": 15
   },
   "by_difficulty": {
-    "Easy": 60,
+    "Easy": 62,
     "Medium": 38,
     "Hard": 10
   }
