@@ -111,11 +111,13 @@
     "python/basics/temperature_converter",
     "c/math/armstrong_number",
     "python/math/gcd_lcm",
-    "javascript/sorting/merge_sort"
+    "javascript/sorting/merge_sort",
+    "java/data-structures/queue_implementation",
+    "java/data-structures/hash_table"
   ],
-  "total": 112,
+  "total": 114,
   "by_language": {
-    "java": 20,
+    "java": 22,
     "cpp": 19,
     "javascript": 22,
     "python": 22,
@@ -123,8 +125,8 @@
     "c": 15
   },
   "by_difficulty": {
-    "Easy": 63,
+    "Easy": 64,
     "Medium": 39,
-    "Hard": 10
+    "Hard": 11
   }
 }
