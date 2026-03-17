@@ -113,19 +113,21 @@
     "python/math/gcd_lcm",
     "javascript/sorting/merge_sort",
     "java/data-structures/queue_implementation",
-    "java/data-structures/hash_table"
+    "java/data-structures/hash_table",
+    "cpp/sorting/insertion_sort",
+    "javascript/math/prime_numbers"
   ],
-  "total": 114,
+  "total": 116,
   "by_language": {
     "java": 22,
-    "cpp": 19,
-    "javascript": 22,
+    "cpp": 20,
+    "javascript": 23,
     "python": 22,
     "go": 14,
     "c": 15
   },
   "by_difficulty": {
-    "Easy": 64,
+    "Easy": 66,
     "Medium": 39,
     "Hard": 11
   }
