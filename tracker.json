@@ -115,20 +115,22 @@
     "java/data-structures/queue_implementation",
     "java/data-structures/hash_table",
     "cpp/sorting/insertion_sort",
-    "javascript/math/prime_numbers"
+    "javascript/math/prime_numbers",
+    "python/dynamic-programming/longest_common_subsequence",
+    "python/strings/palindrome_check"
   ],
-  "total": 116,
+  "total": 118,
   "by_language": {
     "java": 22,
     "cpp": 20,
     "javascript": 23,
-    "python": 22,
+    "python": 24,
     "go": 14,
     "c": 15
   },
   "by_difficulty": {
-    "Easy": 66,
-    "Medium": 39,
+    "Easy": 67,
+    "Medium": 40,
     "Hard": 11
   }
 }
