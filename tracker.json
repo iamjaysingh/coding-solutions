@@ -117,12 +117,14 @@
     "cpp/sorting/insertion_sort",
     "javascript/math/prime_numbers",
     "python/dynamic-programming/longest_common_subsequence",
-    "python/strings/palindrome_check"
+    "python/strings/palindrome_check",
+    "cpp/sorting/quick_sort",
+    "java/data-structures/binary_search_tree"
   ],
-  "total": 118,
+  "total": 120,
   "by_language": {
-    "java": 22,
-    "cpp": 20,
+    "java": 23,
+    "cpp": 21,
     "javascript": 23,
     "python": 24,
     "go": 14,
@@ -130,7 +132,7 @@
   },
   "by_difficulty": {
     "Easy": 67,
-    "Medium": 40,
+    "Medium": 42,
     "Hard": 11
   }
 }
