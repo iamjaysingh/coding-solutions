@@ -119,19 +119,21 @@
     "python/dynamic-programming/longest_common_subsequence",
     "python/strings/palindrome_check",
     "cpp/sorting/quick_sort",
-    "java/data-structures/binary_search_tree"
+    "java/data-structures/binary_search_tree",
+    "python/math/power_of_two",
+    "cpp/basics/pattern_printing"
   ],
-  "total": 120,
+  "total": 122,
   "by_language": {
     "java": 23,
-    "cpp": 21,
+    "cpp": 22,
     "javascript": 23,
-    "python": 24,
+    "python": 25,
     "go": 14,
     "c": 15
   },
   "by_difficulty": {
-    "Easy": 67,
+    "Easy": 69,
     "Medium": 42,
     "Hard": 11
   }
