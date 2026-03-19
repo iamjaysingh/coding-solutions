@@ -121,19 +121,21 @@
     "cpp/sorting/quick_sort",
     "java/data-structures/binary_search_tree",
     "python/math/power_of_two",
-    "cpp/basics/pattern_printing"
+    "cpp/basics/pattern_printing",
+    "python/searching/binary_search",
+    "c/data-structures/queue_implementation"
   ],
-  "total": 122,
+  "total": 124,
   "by_language": {
     "java": 23,
     "cpp": 22,
     "javascript": 23,
-    "python": 25,
+    "python": 26,
     "go": 14,
-    "c": 15
+    "c": 16
   },
   "by_difficulty": {
-    "Easy": 69,
+    "Easy": 71,
     "Medium": 42,
     "Hard": 11
   }
