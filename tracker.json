@@ -125,20 +125,22 @@
     "python/searching/binary_search",
     "c/data-structures/queue_implementation",
     "javascript/strings/palindrome_check",
-    "javascript/math/armstrong_number"
+    "javascript/math/armstrong_number",
+    "c/math/gcd_lcm",
+    "python/sorting/merge_sort"
   ],
-  "total": 126,
+  "total": 128,
   "by_language": {
     "java": 23,
     "cpp": 22,
     "javascript": 25,
-    "python": 26,
+    "python": 27,
     "go": 14,
-    "c": 16
+    "c": 17
   },
   "by_difficulty": {
-    "Easy": 73,
-    "Medium": 42,
+    "Easy": 74,
+    "Medium": 43,
     "Hard": 11
   }
 }
