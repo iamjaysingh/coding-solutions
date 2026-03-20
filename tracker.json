@@ -123,19 +123,21 @@
     "python/math/power_of_two",
     "cpp/basics/pattern_printing",
     "python/searching/binary_search",
-    "c/data-structures/queue_implementation"
+    "c/data-structures/queue_implementation",
+    "javascript/strings/palindrome_check",
+    "javascript/math/armstrong_number"
   ],
-  "total": 124,
+  "total": 126,
   "by_language": {
     "java": 23,
     "cpp": 22,
-    "javascript": 23,
+    "javascript": 25,
     "python": 26,
     "go": 14,
     "c": 16
   },
   "by_difficulty": {
-    "Easy": 71,
+    "Easy": 73,
     "Medium": 42,
     "Hard": 11
   }
