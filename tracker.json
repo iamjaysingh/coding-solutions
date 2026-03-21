@@ -127,20 +127,22 @@
     "javascript/strings/palindrome_check",
     "javascript/math/armstrong_number",
     "c/math/gcd_lcm",
-    "python/sorting/merge_sort"
+    "python/sorting/merge_sort",
+    "python/searching/two_sum",
+    "java/math/gcd_lcm"
   ],
-  "total": 128,
+  "total": 130,
   "by_language": {
-    "java": 23,
+    "java": 24,
     "cpp": 22,
     "javascript": 25,
-    "python": 27,
+    "python": 28,
     "go": 14,
     "c": 17
   },
   "by_difficulty": {
-    "Easy": 74,
-    "Medium": 43,
+    "Easy": 75,
+    "Medium": 44,
     "Hard": 11
   }
 }
