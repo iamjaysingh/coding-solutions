@@ -129,20 +129,22 @@
     "c/math/gcd_lcm",
     "python/sorting/merge_sort",
     "python/searching/two_sum",
-    "java/math/gcd_lcm"
+    "java/math/gcd_lcm",
+    "cpp/math/gcd_lcm",
+    "java/sorting/merge_sort"
   ],
-  "total": 130,
+  "total": 132,
   "by_language": {
-    "java": 24,
-    "cpp": 22,
+    "java": 25,
+    "cpp": 23,
     "javascript": 25,
     "python": 28,
     "go": 14,
     "c": 17
   },
   "by_difficulty": {
-    "Easy": 75,
-    "Medium": 44,
+    "Easy": 76,
+    "Medium": 45,
     "Hard": 11
   }
 }
