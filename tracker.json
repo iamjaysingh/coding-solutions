@@ -133,20 +133,22 @@
     "cpp/math/gcd_lcm",
     "java/sorting/merge_sort",
     "java/math/fibonacci",
-    "python/basics/number_to_words"
+    "python/basics/number_to_words",
+    "javascript/data-structures/binary_search_tree",
+    "go/math/factorial"
   ],
-  "total": 134,
+  "total": 136,
   "by_language": {
     "java": 26,
     "cpp": 23,
-    "javascript": 25,
+    "javascript": 26,
     "python": 29,
-    "go": 14,
+    "go": 15,
     "c": 17
   },
   "by_difficulty": {
-    "Easy": 77,
-    "Medium": 46,
+    "Easy": 78,
+    "Medium": 47,
     "Hard": 11
   }
 }
