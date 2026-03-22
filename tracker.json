@@ -131,20 +131,22 @@
     "python/searching/two_sum",
     "java/math/gcd_lcm",
     "cpp/math/gcd_lcm",
-    "java/sorting/merge_sort"
+    "java/sorting/merge_sort",
+    "java/math/fibonacci",
+    "python/basics/number_to_words"
   ],
-  "total": 132,
+  "total": 134,
   "by_language": {
-    "java": 25,
+    "java": 26,
     "cpp": 23,
     "javascript": 25,
-    "python": 28,
+    "python": 29,
     "go": 14,
     "c": 17
   },
   "by_difficulty": {
-    "Easy": 76,
-    "Medium": 45,
+    "Easy": 77,
+    "Medium": 46,
     "Hard": 11
   }
 }
